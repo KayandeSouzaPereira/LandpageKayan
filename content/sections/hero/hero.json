@@ -10,9 +10,8 @@
     "highlight": "Softwares e Apps",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }

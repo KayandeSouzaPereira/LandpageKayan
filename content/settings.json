@@ -2,12 +2,11 @@
   "siteMetadata": {
     "language": "pt-br",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "title": "Portfolio",
+    "titleTemplate": "Portfolio",
+    "description": "Portfolio.",
     "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "avatar": "../content/images/portrait.jpeg",
     "social": {
       "github": "https://github.com/KayandeSouzaPereira",
       "linkedin": "https://www.linkedin.com/in/kayan-de-souza-3832671a2/",
@@ -26,7 +25,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }

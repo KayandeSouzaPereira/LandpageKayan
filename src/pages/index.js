@@ -3,7 +3,6 @@ import {
   AboutSection,
   ContactSection,
   HeroSection,
-  InterestsSection,
   Page,
   ProjectsSection,
   Seo,
@@ -15,9 +14,9 @@ export default function IndexPage() {
       <Seo title="Portfolio" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <AboutSection sectionId="sobre" heading="About Portfolio Minimal" />
-        <ProjectsSection sectionId="projetos" heading="Built-in Features" />
-        <ContactSection sectionId="contato" heading="Issues?" />
+        <AboutSection sectionId="sobre" heading="Sobre mim" />
+        <ProjectsSection sectionId="projetos" heading="Projetos" />
+        <ContactSection sectionId="contato" heading="Contato" />
       </Page>
     </>
   );
