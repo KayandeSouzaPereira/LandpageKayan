@@ -1,7 +1,7 @@
 
-# Projeto feito a partir do Gatsby Starter Portfolio Minimal Theme 
+# Portifolio Landpage
 
-Pode ser encontrado neste  <a href="https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal">link</a>
+
 
 ## Introdução 
 
@@ -12,6 +12,8 @@ O Projeto foi feito em cerca de 30 minutos.
 
 ## Creditos
 
+Projeto feito a partir do Gatsby Starter Portfolio Minimal Theme 
+Pode ser encontrado neste  <a href="https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal">link</a>
 
 Criador do design base
 Konstantin Münster – [konstantin.digital](https://konstantin.digital)
