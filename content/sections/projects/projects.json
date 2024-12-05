@@ -7,16 +7,16 @@
       "description": "Projeto completo de gestão de delivery com transação financeira.",
       "tags": ["Fullstack", "Java", "React"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/instzaaProject.jpg",
         "linkTo": "https://github.com/KayandeSouzaPereira"
       }
     },
     {
       "visible": true,
-      "category": "EM BREVE",
-      "title": "EM BREVE",
-      "description": "Projetos a serem adicionados",
-      "tags": ["Em Breve"],
+      "category": "Projeto Fullstack",
+      "title": "Pro-G",
+      "description": "Projeto em desenvolvimento.",
+      "tags": ["Fullstack", "Node.js", "React"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "linkTo": "https://github.com/KayandeSouzaPereira"
