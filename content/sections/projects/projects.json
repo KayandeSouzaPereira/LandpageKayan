@@ -4,18 +4,27 @@
       "visible": true,
       "category": "Projeto Fullstack",
       "title": "Instzaa",
-      "description": "Projeto completo de gestão de delivery com transação financeira.",
+      "description": "Projeto completo de delivery com aplicativo movél, pagina de administração web e transação financeira utilizando PIX e cartão de credito.",
       "tags": ["Fullstack", "Java", "React"],
       "image": {
         "src": "../../images/instzaaProject.jpg",
-        "linkTo": "https://github.com/KayandeSouzaPereira"
-      }
+        "linkTo": "https://github.com/KayandeSouzaPereira/instzaa-app"
+      },"links": [
+        {
+          "type": "github",
+          "url": "https://github.com/KayandeSouzaPereira/instzaa-app"
+        },
+        {
+          "type": "medium",
+          "url": ""
+        }
+      ]
     },
     {
       "visible": true,
       "category": "Projeto Fullstack",
       "title": "Pro-G",
-      "description": "Projeto em desenvolvimento.",
+      "description": "Projeto completo de treinos com implementação de treinador com Inteligência Artificial Generativa em desenvolvimento.",
       "tags": ["Fullstack", "Node.js", "React"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
