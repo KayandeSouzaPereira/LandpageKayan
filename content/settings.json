@@ -1,28 +1,27 @@
 {
   "siteMetadata": {
     "language": "pt-br",
-    "siteUrl": "https://kayandesouza.dev",
-    "title": "Kayan de Souza",
-    "titleTemplate": "Portfolio",
-    "description": "Portfolio.",
+    "siteUrl": "https://kayanpereira.tech/",
+    "title": "Kayan.",
+    "titleTemplate": "Kayan.",
+    "description": "Kayan.",
     "author": "Konstantin Münster",
     "avatar": "../content/images/portrait.jpeg",
     "social": {
       "github": "https://github.com/KayandeSouzaPereira",
-      "linkedin": "https://www.linkedin.com/in/kayan-de-souza-3832671a2/",
+      "linkedin": "https://www.linkedin.com/in/kayan-de-souza/",
       "mail": "mailto:kayandesouzapereira@hotmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Kayan Pereira" },
     "navigation": {
       "header": [
         { "label": "Sobre", "url": "/#sobre" },
         { "label": "Projetos", "url": "/#projetos" },
         { "label": "Contato", "url": "/#contato" }
       ],
-      "footer": [
-      ]
+      "footer": []
     },
     "featureToggles": {
       "useDarkModeAsDefault": true,

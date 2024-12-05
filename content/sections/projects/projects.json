@@ -2,6 +2,17 @@
   "projects": [
     {
       "visible": true,
+      "category": "Projeto Fullstack",
+      "title": "Instzaa",
+      "description": "Projeto completo de gestão de delivery com transação financeira.",
+      "tags": ["Fullstack", "Java", "React"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "linkTo": "https://github.com/KayandeSouzaPereira"
+      }
+    },
+    {
+      "visible": true,
       "category": "EM BREVE",
       "title": "EM BREVE",
       "description": "Projetos a serem adicionados",

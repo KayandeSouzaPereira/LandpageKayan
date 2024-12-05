@@ -4,10 +4,10 @@
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
-  "title": "Meu nome e Kayan de Souza",
+  "title": "",
   "subtitle": {
-    "prefix": "E crio ",
-    "highlight": "Softwares e Apps",
+    "prefix": "Crio ",
+    "highlight": "Softwares",
     "suffix": "."
   },
   "socialProfiles": {
