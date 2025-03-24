@@ -8,7 +8,7 @@
       "tags": ["Fullstack", "Java", "React"],
       "image": {
         "src": "../../images/instzaaProject.jpg",
-        "linkTo": "https://github.com/KayandeSouzaPereira/instzaa-app"
+        "linkTo": "https://medium.com/@kayandesouzapereira/criando-um-projeto-pessoal-fullstack-2a7d5c18be51"
       },"links": [
         {
           "type": "github",
@@ -16,7 +16,7 @@
         },
         {
           "type": "medium",
-          "url": ""
+          "url": "https://medium.com/@kayandesouzapereira/criando-um-projeto-pessoal-fullstack-2a7d5c18be51"
         }
       ]
     },
